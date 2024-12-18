@@ -6,7 +6,7 @@ A simple and efficient Python script that converts text into QR codes using the 
 
 ## Features ✨
 - Convert any text into a QR code.
-- Save the generated QR code as an image file (`.png` format).
+- Save the generated QR code as an image file (`.png`/`.jpg` format).
 - Automatically appends the current date to the filename for organized file storage.
 - Lightweight and easy to use.
 
