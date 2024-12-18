@@ -27,15 +27,12 @@ To use this project, ensure you have the following installed:
 - Pillow (PIL): To enhance or manipulate images.
 - os: For file handling and directory operations.
 
-
-  ## Project Owner 🤖
-  - `Created and maintained by Tahsan Rahman Fahim (@trfahim).`
-
   ## Core Functions:
 - .make(): Generates the QR code.
 - .add_date(): Appends the current date to the filename for easier file organization.
 
-
+  ## Project Owner 🤖
+  # Created and maintained by Tahsan Rahman Fahim (@trfahim).
 
 
 
