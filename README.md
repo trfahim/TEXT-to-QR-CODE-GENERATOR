@@ -21,6 +21,9 @@ To use this project, ensure you have the following installed:
   - `PIL` (from `pillow`)
   - `os`
 
+## Example 🎯
+- Input:
+- Enter the text to generate QR Code: Hello World!
 
 
 
