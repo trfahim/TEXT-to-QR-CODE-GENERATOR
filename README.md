@@ -31,8 +31,8 @@ To use this project, ensure you have the following installed:
 - .make(): Generates the QR code.
 - .add_date(): Appends the current date to the filename for easier file organization.
 
-  ## Project Owner 🤖
-  # Created and maintained by Tahsan Rahman Fahim (@trfahim).
+
+  ## Created and maintained by Tahsan Rahman Fahim (@trfahim).
 
 
 
