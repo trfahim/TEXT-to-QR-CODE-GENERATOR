@@ -21,9 +21,21 @@ To use this project, ensure you have the following installed:
   - `PIL` (from `pillow`)
   - `os`
 
-## Example 🎯
-- Input:
-- Enter the text to generate QR Code: Hello World!
+## Code Overview 🖥️
+- The script uses the following key Python libraries:
+- qrcode: To generate QR codes.
+- Pillow (PIL): To enhance or manipulate images.
+- os: For file handling and directory operations.
+
+
+  ## Project Owner 🤖
+  - `Created and maintained by Tahsan Rahman Fahim (@trfahim).`
+
+  ## Core Functions:
+- .make(): Generates the QR code.
+- .add_date(): Appends the current date to the filename for easier file organization.
+
+
 
 
 
