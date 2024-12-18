@@ -32,7 +32,7 @@ To use this project, ensure you have the following installed:
 - .add_date(): Appends the current date to the filename for easier file organization.
 
 
-  ## Created and maintained by Tahsan Rahman Fahim (@trfahim).
+## Created and maintained by Tahsan Rahman Fahim (@trfahim).
 
 
 
